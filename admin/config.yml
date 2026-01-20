@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: MFA33063/MFA33063.github.io
   branch: main
 
 media_folder: "assets/uploads"
