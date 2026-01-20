@@ -2,6 +2,8 @@ backend:
   name: github
   repo: MFA33063/MFA33063.github.io
   branch: main
+  site_domain: transcendent-malabi-fa392b.netlify.app
+
 
 
 media_folder: "assets/uploads"
